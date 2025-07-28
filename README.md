@@ -83,15 +83,15 @@ This project aims to **design, simulate, and implement** both a **synchronous** 
 
 ## 📂 Project Structure
 ├── README.md # Project overview
-├── docs/
+├── docs/ # Project documents
 │ ├── report.pdf # Final project report (PDF)
 │ └── datasheets/ # Reference datasheets for ICs
-├── proteus/
-│ └── simulation.pdsprj # Proteus simulation file
-├── images/
-│ ├── schematic.png # Circuit diagram
-│ ├── physical_circuit.jpg # Real-world implementation
-│ └── simulation.gif # Simulation demo
+├── proteus/ # Proteus simulation files
+│ └── simulation.pdsprj # Main simulation project file
+├── images/ # Visual documentation
+│ ├── schematic.png # Circuit schematic diagram
+│ ├── physical_circuit.jpg # Photo of breadboard implementation
+│ └── simulation.gif # Animated demo of Proteus simulation
 
 ---
 
