@@ -82,4 +82,35 @@ This project aims to **design, simulate, and implement** both a **synchronous** 
 ---
 
 ## 📂 Project Structure
+├── README.md # Project overview
+├── docs/
+│ ├── report.pdf # Final project report (PDF)
+│ └── datasheets/ # Reference datasheets for ICs
+├── proteus/
+│ └── simulation.pdsprj # Proteus simulation file
+├── images/
+│ ├── schematic.png # Circuit diagram
+│ ├── physical_circuit.jpg # Real-world implementation
+│ └── simulation.gif # Simulation demo
+
+---
+
+## 📚 References
+
+- [7-Segment Display Tutorial – Electronics Tutorials](https://www.electronics-tutorials.ws/blog/7-segment-display-tutorial.html)
+- [CD4072 Datasheet – Futurlec](https://www.futurlec.com/4000Series/CD4072.shtml)
+- [74HC Series Datasheets – Cambridge](https://www.cl.cam.ac.uk/teaching/2003/DigElec/part2-data.pdf)
+- [Proteus Design Suite](https://www.labcenter.com/)
+
+---
+
+## 📝 Notes
+
+- Ensure proper power supply (5V regulated).
+- Resistors on LED segments are used to limit current.
+- Flip-flops should be properly cleared/set before operation.
+
+---
+
+
 
